@@ -1,3 +1,4 @@
+#######This Paint tool was created by team
 # Paint tool
 ####Test project created using AngularJS/NodeJS/MongoDB.
 ## How to run this project on your computer
